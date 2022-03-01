@@ -35,7 +35,7 @@ require __DIR__.'/app/project/vendor/autoload.php';
 |
 */
 
-$app = require_once __DIR__.'/app/project/vendor/autoload.php';
+$app = require_once __DIR__.'/app/app/project/vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
