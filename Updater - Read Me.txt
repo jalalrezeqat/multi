@@ -1,1 +1,0 @@
-If you are using version 1.7.0 or higher version then you can upgradge to version 2.0 using this updater file. Older than 1.7.0 versions can't be updated from this updater. Plesae check updater folder documentation or contact us from our codecanyon profile page for support. Thanks!
