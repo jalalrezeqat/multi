@@ -69,7 +69,7 @@
 
                   <div class="tag-social-link">
                     <div class="tag">
-                      <h6 class="title">Tag1 : </h6>
+                      <h6 class="title">Tag : </h6>
                       @foreach(explode(',', $blog->tags) as $key => $tag)
                         <a href="{{ route('front.blogtags',$tag) }}">
                         {{ $tag }}{{ $key != count(explode(',', $blog->tags)) - 1  ? ',':''}}
